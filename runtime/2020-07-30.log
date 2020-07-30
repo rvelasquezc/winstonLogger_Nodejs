@@ -1,0 +1,10 @@
+[2020-07-30 10:33:29] info Servidor ejecutando en http://127.0.0.1:3000/
+[2020-07-30 10:33:48] info /nombre Usuario autenticado
+[2020-07-30 10:33:48] info {"userId":1,"id":1,"title":"delectus aut autem","completed":false}
+[2020-07-30 10:33:55] info /vendedor Informacion de Vendedor
+[2020-07-30 10:33:55] info {"userId":1,"id":2,"title":"quis ut nam facilis et officia qui","completed":false}
+[2020-07-30 10:34:04] info /supervisor Informacion de supervisor
+[2020-07-30 10:34:04] info {"userId":1,"id":3,"title":"fugiat veniam minus","completed":false}
+[2020-07-30 10:34:15] info /diasventa Dias en que pasa vendedor
+[2020-07-30 10:34:15] info {"userId":1,"id":4,"title":"et porro tempora","completed":true}
+[2020-07-30 10:34:43] info / Ingreso ruta que no existe

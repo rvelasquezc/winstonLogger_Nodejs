@@ -1,0 +1,14 @@
+{"message":"Servidor ejecutando en http://127.0.0.1:3000/","level":"info"}
+info: Servidor ejecutando en http://127.0.0.1:3000/
+info: Servidor ejecutando en http://127.0.0.1:3000/
+info: Usuario autenticado
+info: Usuario visito pagina principal
+info: Usuario ingreso a info
+info: Usuario finalizo sesion
+info: Consulto recurso no existente
+info: Ingreso ruta que no existe
+[2020-06-05T18:29:05.309Z] info Servidor ejecutando en http://127.0.0.1:3000/
+[2020-06-05T18:30:28.997Z] info Usuario autenticado
+[2020-06-05T18:30:42.178Z] info Usuario ingreso a info
+[2020-06-05T18:32:12.952Z] info Consulto recurso no existente
+[2020-06-05T18:32:30.076Z] info Usuario finalizo sesion
