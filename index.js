@@ -8,21 +8,6 @@ const host = "127.0.0.1";
 const port = 3000;
 const server = http.createServer((req, res) => {
 
- /* const getInfo = async () => {
-    return await axios({
-      //url: "https://dog.ceo/api/breeds/list/all",
-      url:
-        "http://192.168.10.7:4242/ZAPI/SimpleRestService/ObtieneNombreVendedorSQL?codigo=CA3619",
-      //url: "https://jsonplaceholder.typicode.com/todos/1",
-    });
-  };
-
-  (async () => {
-    const breeds = await getInfo();
-    logger.info(JSON.stringify(breeds.data));
-    console.log(breeds.data);
-  })(); */
-
   if (req.url === "/nombre") {
     logger.info(req.url + " Usuario autenticado");
     res.statusCode = 200;
